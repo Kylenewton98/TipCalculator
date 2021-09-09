@@ -29,8 +29,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/70646003/132747805-77efcb04-eabe-4568-b13f-f751ec87c9bc.gif)
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/70646003/132590187-be13ffdd-7808-4bc4-81dd-62b15a1ec3f0.gif)
 
 
 ## Notes
